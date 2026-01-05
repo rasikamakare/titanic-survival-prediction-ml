@@ -35,4 +35,4 @@ This project focuses on predicting the survival of passengers on the Titanic usi
 The Random Forest model achieved the highest accuracy and recall, making it the most effective model for predicting passenger survival.
 
 ## 📁 File Structure
-- `titanic_final.ipynb` – Complete implementation and analysis
+- `[titanic_final.ipynb](https://github.com/rasikamakare/titanic-survival-prediction-ml/blob/main/titanic_final.ipynb)` – Complete implementation and analysis
